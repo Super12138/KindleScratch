@@ -9,7 +9,7 @@
 本程序纯属娱乐，请勿用于商业作用。
 > 界面版权归Amazon所有
 ## 安装
-
+安装方法详见[官网](https://super12138.github.io/KindleScratch/）
 ```
 $ npm install -g dplayer-thumbnails
 ```
