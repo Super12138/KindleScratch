@@ -22,6 +22,6 @@ $ dplayer-thumbnails -o ./thumbnails.jpg -q 60 demo.mp4
 
 ## 作者
 
-**DPlayer-thumbnails** © [DIYgod](https://github.com/DIYgod), Released under the [MIT](./LICENSE) License.<br>
+**KindleScratch** © [Super12138](https://github.com/Super12138), Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by DIYgod with help from contributors ([list](https://github.com/DIYgod/DPlayer-thumbnails/contributors)).
 
