@@ -23,4 +23,3 @@ $ dplayer-thumbnails -o ./thumbnails.jpg -q 60 demo.mp4
 **DPlayer-thumbnails** © [DIYgod](https://github.com/DIYgod), Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by DIYgod with help from contributors ([list](https://github.com/DIYgod/DPlayer-thumbnails/contributors)).
 
-> Blog [@Anotherhome](https://www.anotherhome.net) · GitHub [@DIYgod](https://github.com/DIYgod) · Twitter [@DIYgod](https://twitter.com/DIYgod) · Telegram Channel [@awesomeDIYgod](https://t.me/awesomeDIYgod)
