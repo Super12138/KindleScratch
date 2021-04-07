@@ -5,7 +5,9 @@
 [![npm](https://img.shields.io/npm/v/dplayer-thumbnails.svg?style=flat-square)](https://www.npmjs.com/package/dplayer-thumbnails)
 [![npm](https://img.shields.io/npm/dt/dplayer-thumbnails.svg?style=flat-square)](https://www.npmjs.com/package/dplayer-thumbnails)
 [![dependency Status](https://img.shields.io/david/MoePlayer/DPlayer-thumbnails.svg?style=flat-square)](https://david-dm.org/MoePlayer/DPlayer-thumbnails#info=dependencies)
-
+# 使用声明
+本程序纯属娱乐，请勿用于商业作用。
+> 界面版权归Amazon所有
 ## 安装
 
 ```
