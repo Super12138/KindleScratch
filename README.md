@@ -1,4 +1,6 @@
 # KindleScratch
+![](https://img.shields.io/badge/release-dev-red)
+
 语言：简体中文 | English
 > 一个Scratch版的Kindle
 # 使用声明
