@@ -1,5 +1,6 @@
 # KindleScratch
-![](https://img.shields.io/badge/release-dev-red)
+![](https://img.shields.io/badge/state-In%20development-red)
+![](https://img.shields.io/badge/release-dev-blue)
 
 语言：简体中文 | English
 > 一个Scratch版的Kindle
